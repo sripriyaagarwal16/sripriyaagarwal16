@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sripriyaagarwal16" alt="sripriyaagarwal16" /></a> </p>
 
-- 🔭 I’m currently working on [Rights Realm](https://github.com/sripriyaagarwal16/Right-Realm)
 
 - 🌱 I’m currently learning **NodeJS,Tensorflow,Scikitlearn,React**
 
@@ -17,7 +16,6 @@
 
 - 📫 How to reach me **sripriyaagarwal70@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ueKbBdT3SyGtw3IS85Fh8BPPj3uMiDAA/view?usp=sharing](https://drive.google.com/file/d/1ueKbBdT3SyGtw3IS85Fh8BPPj3uMiDAA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
