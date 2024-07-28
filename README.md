@@ -1,5 +1,5 @@
-![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Generative_AI_Tools.jpg)
 
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Generative_AI_Tools.jpg" alt="MasterHead" width="500" height="300">
 
 
 <h1 align="center">Hi 👋, I'm Sripriya Agarwal</h1>
