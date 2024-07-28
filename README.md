@@ -2,9 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sripriya Agarwal</h1>
-<h3 align="center">A passionate frontend developer and ML developer from India</h3>
-<h3 align="center">I am current pursuing Btech from IGDTUW in ECE-AI</h3>
-<h3 align="center">I have a good command on different languages like C++,Javascript,CSS,HTML,Python</h3>
+<h3 align="center"> 🔥A passionate frontend developer and ML developer from India 🔥</h3>
 <img align="right" alt="Coding" width=400 src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sripriyaagarwal16&label=Profile%20views&color=0e75b6&style=flat" alt="sripriyaagarwal16" /> </p>
@@ -18,6 +16,9 @@
 
 - 📫 How to reach me **sripriyaagarwal70@gmail.com**
 
+-💡I am current pursuing Btech from IGDTUW in ECE-AI
+
+-🌐I have a good command on different languages like C++,Javascript,CSS,HTML,Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
