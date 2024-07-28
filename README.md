@@ -16,9 +16,12 @@
 
 - 📫 How to reach me **sripriyaagarwal70@gmail.com**
 
--💡 I am current pursuing Btech from IGDTUW in ECE-AI
+- 💡 I am current pursuing Btech from IGDTUW in ECE-AI
+  
+- 🌐 I have a good command on different languages like C++,Javascript,CSS,HTML,Python.
 
--🌐 I have a good command on different languages like C++,Javascript,CSS,HTML,Python.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
