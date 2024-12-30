@@ -72,3 +72,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/sripriyaagarwal16/count.svg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sripriyaagarwal16.sripriyaagarwal16" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sripriyaagarwal16&show_icons=true&locale=en" alt="sripriyaagarwal16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sripriyaagarwal16&" alt="sripriyaagarwal16" /></p>
